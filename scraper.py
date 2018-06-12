@@ -23,7 +23,7 @@ tiers = {
 			"name1",
 			"name2"
 		]
-	}
+	},
 	"tier2":{
 		"price":700,
 		"products":[
@@ -32,3 +32,9 @@ tiers = {
 		]
 	}
 }	
+
+# python list comprehensions
+# [key for key in var.keys()]
+# makes list from another operation
+
+
